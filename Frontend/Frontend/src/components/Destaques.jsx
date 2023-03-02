@@ -6,11 +6,11 @@ function Destaques() {
         <Row className='mt-2'>
             <Col className='mt-2' sm="12" md="4">
                 <Card>
-                    <Card.Img variant="top" src="https://via.placeholder.com/300" />
+                    <Card.Img variant="top" src="https://user-images.githubusercontent.com/112557569/222452280-c3b2f8d9-b6bd-4e6b-ad01-9ad09fa3a452.png" />
                     <Card.Body>
-                        <Card.Title>Fácil de usar</Card.Title>
+                        <Card.Title> Confiável </Card.Title>
                         <Card.Text>
-                            O EstudoApp é muito fácil de usar. Você pode criar suas próprias listas de estudo!
+                            Garantimos que sua doação chegue a quem precisa. 
                         </Card.Text>
                         <LinkContainer to="/">
                             <Button variant="warning">Acessar o EstudoApp</Button>
@@ -20,11 +20,11 @@ function Destaques() {
             </Col>
             <Col className='mt-2' sm="12" md="4">
                 <Card>
-                    <Card.Img variant="top" src="https://via.placeholder.com/300" />
+                    <Card.Img variant="top" src="https://user-images.githubusercontent.com/112557569/222452287-e1808be3-b86d-44fe-9d30-9d7e5c037ba3.png" />
                     <Card.Body>
-                        <Card.Title>Rápido e confiável</Card.Title>
+                        <Card.Title>Sustentavel</Card.Title>
                         <Card.Text>
-                            O EstudoApp é muito rápido e confiável. Seus dados são armazenados em servidores seguros.
+                            Ao fazer uma doação menos objetos são descartados no meio ambiente. Você ajuda alguém e o planeta agradece!
                         </Card.Text>
                         <LinkContainer to="/funcionalidades">
                             <Button variant="warning">Conheça mais</Button>
@@ -34,11 +34,11 @@ function Destaques() {
             </Col>
             <Col className='mt-2' sm="12" md="4">
                 <Card>
-                    <Card.Img variant="top" src="https://via.placeholder.com/300" />
+                    <Card.Img variant="top" src="https://user-images.githubusercontent.com/112557569/222452290-0815693a-0257-4df7-8c25-43c1fbbb875f.png" />
                     <Card.Body>
-                        <Card.Title>Suporte personalizado</Card.Title>
+                        <Card.Title>Fácil de usar</Card.Title>
                         <Card.Text>
-                            O EstudoApp oferece suporte personalizado para você. Entre em contato conosco e tire suas dúvidas.
+                            Você se cadastra e nós divulgamos sua doação. Faça chegar a quem precisa! 
                         </Card.Text>
                         <LinkContainer to="/contato">
                         <Button variant="warning">Entre em contato</Button>

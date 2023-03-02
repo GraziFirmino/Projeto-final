@@ -10,32 +10,30 @@ function Banners() {
                         alt="Slide incrível"
                     />
                     <Carousel.Caption>
-                        <h5>EstudoApp</h5>
-                        <p>Um app para facilitar a vida do estudante!</p>
+                        <h5></h5>
+                        <p></p>
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item>
                     <img
                         className="d-block w-100"
-                        src="https://via.placeholder.com/1500x300/ffd000"
+                        src="https://user-images.githubusercontent.com/112557569/222444272-defcdcff-7096-4bd7-8c2f-cc3430c9da62.png"
                         alt="Outro slide incrível"
                     />
                     <Carousel.Caption>
-                        <h5>Quais são as funcionalidades?</h5>
-                        <p>Confira os principais recursos disponíveis no app</p>
+                        <h5></h5>
+                        <p></p>
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item>
                     <img
                         className="d-block w-100"
-                        src="https://via.placeholder.com/1500x300/ffd000"
+                        src="https://user-images.githubusercontent.com/112557569/222444274-8bc84d34-2180-477a-933b-7e205291e525.png"
                         alt="Último slide"
                     />
                     <Carousel.Caption>
-                        <h5>Contato para parcerias?</h5>
-                        <p>
-                            Entre em contato com a nossa equipe para conversar sobre oportunidades de parceria
-                        </p>
+                        <h5></h5>
+                        
                     </Carousel.Caption>
                 </Carousel.Item>
             </Carousel>
