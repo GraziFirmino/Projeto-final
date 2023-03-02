@@ -13,7 +13,7 @@ function Destaques() {
                             Garantimos que sua doação chegue a quem precisa. 
                         </Card.Text>
                         <LinkContainer to="/">
-                            <Button variant="warning">Acessar o EstudoApp</Button>
+                            <Button variant="warning">Conheça mais</Button>
                         </LinkContainer>
                     </Card.Body>
                 </Card>

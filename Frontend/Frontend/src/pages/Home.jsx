@@ -3,6 +3,8 @@ import Destaques from '../components/Destaques'
 import Depoimentos from '../components/Depoimentos'
 import Banners from '../components/Banners'
 
+
+
 function Home() {
     return (
         <>
@@ -14,5 +16,7 @@ function Home() {
         </>
     );
 }
+
+
 
 export default Home;
