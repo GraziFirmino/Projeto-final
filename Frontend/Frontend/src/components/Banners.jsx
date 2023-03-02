@@ -6,7 +6,7 @@ function Banners() {
                 <Carousel.Item>
                     <img
                         className="d-block w-100"
-                        src="https://via.placeholder.com/1500x300/ffd000/"
+                        src="https://user-images.githubusercontent.com/112557569/222298142-46677792-536e-48fb-b2e9-5d934f007138.png"
                         alt="Slide incrível"
                     />
                     <Carousel.Caption>
