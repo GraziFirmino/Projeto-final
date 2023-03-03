@@ -17,7 +17,7 @@ const seed = async () => {
     const pagina = [page]
 
     const produtos = []
-    for (let i=1; i<=5; i++) {
+    for (let i=1; i<=10; i++) {
         const prod = new Produto()
         prod.title = `Doador ${i}`
         prod.description = `Item a ser doado ${i}`
