@@ -11,7 +11,7 @@ function Funcionalidades() {
         async function fetchFuncionalidades() {
             const response = await CmsApi().getFuncionalidades()
             if(!response.ok) {
-                alert('Erro ao carregar funcionalidades')
+                alert('Erro ao carregar doações')
                 return
             }
             const funcionalidades = await response.json()
@@ -25,7 +25,7 @@ function Funcionalidades() {
         <>
         <Banners />
         <Container className="conteudo-margin">
-            <h1>Funcionalidades</h1>
+            <h1>Doadores/Doações</h1>
             <ListaFuncionalidades funcionalidades={funcionalidades} />
         </Container>
         </>
