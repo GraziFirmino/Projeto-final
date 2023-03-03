@@ -34,7 +34,7 @@ A operação CRUD é uma abreviação para as operações básicas de armazename
   <li> npm run drop </li>
   <li> npm run start </li></ul>
   
-  <h2> :triangular_flag_on_post: backend </h2> <ul>
+  <h2> :triangular_flag_on_post: frontend </h2> <ul>
   <li> npm install </li>
   <li> npm run dev </li>
 
